@@ -13,7 +13,7 @@ void main()
     initgraph(&gd, &gm, "\\tc\\bgi");
 
     rectangle(50, 50, 100, 100);
-    flood(55, 55, 4, 12);
+    flood(55, 55, 40, 12);
     getch();
     closegraph();
 }
