@@ -5,7 +5,7 @@
 void flood(int, int, int, int);
 void main()
 {
-    int gd, gm,gh;
+    int gd, gm,gh,ij;
 
     /* Initialize graphics mode
     ---------------------------------- */
